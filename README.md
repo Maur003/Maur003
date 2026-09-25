@@ -1,18 +1,85 @@
-<h1 align="center">Hi 👋, I'm Andrés Mauricio Bonilla Lizarazo</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **about AWS cloud architecture**
+<a href="https://github.com/maur003">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Andr%C3%A9s%20Mauricio%20Bonilla%20Lizarazo&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=16" alt="Animated blue header" width="100%" />
+</a>
 
-- 📫 How to reach me **Andyboni_2012@hotmail.com**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+reliable+software+with+real-world+impact;Designing+APIs%2C+microservices%2C+and+AI-powered+solutions;Always+learning.+Always+shipping." alt="Typing animation" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-mauricio-bonilla-lizarazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-mauricio-bonilla-lizarazo/" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/andres-mauricio-bonilla-lizarazo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ambl051003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=maur003&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maur003&show_icons=true&locale=en&layout=compact" alt="maur003" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maur003&show_icons=true&locale=en" alt="maur003" /></p>
+I am a **Software Engineer from Colombia** with a full-stack background and a strong focus on **backend development, AI, and data-driven applications**. I enjoy turning complex problems into practical, maintainable products—from REST APIs and microservices to intelligent systems powered by LLMs and computer vision.
+
+- 🔭 Currently building production software at **VISBL**
+- 🧠 Exploring **LLMs, AI agents, computer vision, and deep learning**
+- ☁️ Interested in **cloud architecture and serverless solutions with AWS Lambda**
+- 🛠️ Focused on clean code, application security, performance, and scalability
+- 🌎 Based in **Colombia** · **English & Spanish**
+
+## What I work with
+
+<table>
+  <tr>
+    <td valign="top" width="33%"><strong>Backend & APIs</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php" alt="Backend technologies" />
+    </td>
+    <td valign="top" width="33%"><strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=angular,react,astro,typescript,javascript" alt="Frontend technologies" />
+    </td>
+    <td valign="top" width="33%"><strong>Data & Cloud</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker" alt="Data and cloud technologies" />
+    </td>
+  </tr>
+</table>
+
+**Architecture & delivery:** REST APIs · Microservices · Spring Cloud · Eureka Server · SQL & NoSQL · Git · Scrum
+
+## Experience
+
+### Software Developer · VISBL
+**June 2025 – September 2026**
+
+Developing, testing, and maintaining web applications and backend systems that support a mortgage platform. Working across cross-functional teams to deliver secure, performant, scalable features and continuously improve the product.
+
+`Java` `Spring Boot` `Node.js` `Python` `JavaScript` `PHP` `WordPress` `SQL` `NoSQL` `Git`
+
+### Software Developer · Freelancer — Motul & Rappi
+**November 2024 – January 2025**
+
+Built a web application to validate and manage discounts and promotions for delivery drivers. The solution combined an Angular frontend, Spring Boot backend, PostgreSQL persistence, and a Spring Cloud / Eureka Server microservices architecture.
+
+`Angular` `Spring Boot` `PostgreSQL` `Spring Cloud` `Eureka Server` `Git`
+
+## Engineering principles
+
+```text
+Reliable systems  →  Clean, maintainable code  →  Measurable impact
+       APIs        →       Microservices        →  Intelligent products
+```
+
+<div align="center">
+
+## GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=maur003&show_icons=true&hide_border=true&bg_color=00000000&title_color=1d4ed8&icon_color=06b6d4&text_color=64748b&rank_icon=github" alt="Andrés's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maur003&layout=compact&hide_border=true&bg_color=00000000&title_color=1d4ed8&text_color=64748b" alt="Top languages" height="165" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=maur003&hide_border=true&background=00000000&ring=1d4ed8&fire=06b6d4&currStreakLabel=1d4ed8&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak" />
+
+<br><br>
+
+<a href="https://github.com/maur003"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1d4ed8&height=100&section=footer" alt="Animated footer" width="100%" /></a>
+
+</div>
